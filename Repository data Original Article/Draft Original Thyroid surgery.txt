@@ -1,0 +1,498 @@
+Relationship between Sonographic Findings, Fine Needle Aspiration and Histopathological Findings Post-Thyroid Surgery
+
+Alberto José Bonnet Ortiz, Omar Wafik Ebrahim Ibrahim, Yousef Samuel Ebrahim Ibrahim, Ammar Ibrahim, Ángel Campusano, Marcos Calzado Capobianco, Hamid Reza Feiz
+
+Abstract
+Background: Thyroid diseases can affect various bodily functions and often go unnoticed. To diagnose diseases that require surgical intervention, tools such as sonography and fine needle aspiration puncture are necessary. These tools help identify findings indicating malignancy or benignity criteria and other data that guide therapeutic decisions. The current study aimed to validate the relationship between sonographic results, fine needle aspiration, and final thyroid pathology. The research described the level of correlation between sonographic findings and fine needle aspiration, the sonographic report and the final pathology report, and the fine needle aspiration report and the final pathology report. Additionally, the research sought to identify the most common diagnoses in final pathology.
+
+Methods: It consists of a retrospective descriptive observational study carried out with a sample of 95 patients undergoing thyroid surgery at the National Institute of Diabetes, Endocrinology and Nutrition (INDEN), Dominican Republic, during 2019, with the aim of validating whether there is a relationship between the sonography findings, fine needle aspiration and the final pathology in surgical thyroid pathologies.
+
+Results: A total of 95 patients were studied. The success rate in the sonography results compared with the benign final biopsy result was 100% and 45.9% with the malignant final biopsy result. In contrast the success rate in the fine needle biopsy results was 95.9% of the benign final biopsy and 28% in the malignant final biopsy results. Of the malignant final biopsy reports 84.6% were papillary carcinomas, 7.7% were follicular carcinomas, and 7.7% were medullary carcinomas.
+
+Conclusions: The relationship between sonographic results, fine needle aspiration, and histopathological findings of surgical thyroid diseases was validated. The sonographic findings were specific to diagnose benignity and malignancy. The fine needle biopsy is useful to diagnose benignity and the final biopsy is the standard to confirm both benign and malignant pathologies.
+
+Key words: ultrasound, fine-needle aspiration and final biopsy, benign tumors, malignant tumors
+
+Introduction 
+
+Around three hundred million people worldwide suffer from thyroid disease. Surgical pathologies of the thyroid form a significant percentage of all thyroid diseases, including both benign and malignant tumors. According to the American Thyroid Association, 60% of people with thyroid disease are unaware of their condition (1). The Dominican Republic is vulnerable to these diseases due to notable risk factors such as obesity and iodine deficiency, and a general low level of health education, which is one of the lowest in Latin America. These issues have prompted the motivation to carry out a research project that can help improve the detection and diagnosis of surgical thyroid diseases in our country.
+
+There are various thyroid pathologies that are similar and important to distinguish. The tools used for detection and distinction are thyroid sonography and fine-needle aspiration puncture, which play a vital role in managing the disease, and determining whether surgical intervention is necessary or not. Evaluating thyroid pathologies can be a tedious task if the tools we currently have are not utilized to their fullest potential. The data provided by each tool can go unnoticed and be deemed unimportant, but data found using a labeled tool may be sufficient to rule out or confirm malignancy (2). This can help decide whether to approach the disease surgically or clinically, thus avoiding unnecessary tests and procedures. For this reason, the investigation of the relationship between sonographic findings, fine-needle aspiration, and final pathology in thyroid surgery at the National Institute of Diabetes, Nutrition, and Endocrinology (INDEN) during 2019 was necessary to address the selected problem.
+
+The research was conducted at INDEN due to its high flow of patients with endocrinological problems, with thyroid pathology being responsible for a considerable percentage. The center performed approximately two to three thyroid operations per week, and samples were taken from patients who underwent the three variables being investigated: sonography, fine needle aspiration puncture or biopsy, surgical resection of the gland (partial or total), and final histopathology in 2019.
+
+The main objective of this work was to validate the relationship between sonographic results, fine needle aspiration, and final thyroid pathology. The study aimed to investigate the level of correlation between sonographic findings and fine needle aspiration, the sonographic report and the final pathology report, and the fine needle aspiration report and the final pathology report. Additionally, the research sought to identify the most common diagnoses in final pathology in 2019 and the characteristic sociodemographic variables of the worst types of neoplasms.
+
+Materials and Methods
+
+Ethics approval and consent to participant 
+
+
+The data for this study was obtained from registered records of all patients who underwent thyroid surgery. We prioritized the ethical principles and criteria to ensure that no individuals whose information was used were offended or harmed in the process. This research was subject to approval by the ethics committees of both Universidad Iberoamericana (UNIBE) and the National Institute of Diabetes, Nutrition and Endocrinology (INDEN).
+
+Study population 
+
+The population for this study included all patients who underwent thyroid surgery at the National Institute of Diabetes and Endocrinology between January 1 and December 31, 2019, in Santo Domingo, Dominican Republic. A non-probabilistic convenience sample was used, consistent with the total number of patients who underwent the procedure. Observation and documentary analysis of the clinical records of patients who attended the endocrinology and surgery consultation and later underwent thyroid surgery was performed. The indirect observation technique was used for data collection. A total of 95 patients participated, 86 females and 9 males, who underwent sonography, thyroid surgery, and final biopsy. Of the total, only 91 patients underwent fine needle aspiration. 52 came from the urban region, while 43 came from the rural region.
+
+Ultrasound evaluation
+
+The ultrasound data was analyzed with The High-resolution Ultrasound TI-RADS classification and scoring (3). Not all sonography reports report the TI-RADS, so sonographic descriptions were used to extrapolate this classification.
+
+
+
+
+Fine-needle aspiration biopsy 
+
+BETHESDA system for reporting thyroid cytopathology and scoring was used to report pathological findings found in thyroid nodules after fine needle aspiration (3). 
+
+
+
+Statistical analysis
+The information collected was organized through the formulation of tables and graphs corresponding to the results obtained in relation to the study variables. Electronic data processing was used with the Microsoft Word and Excel programs.
+
+
+
+Results
+Distribution of the sample according to demographic and clinical characteristics
+
+In total 95 patients, 86 female and 9 males underwent thyroid surgery. There were no patients under 18 years old, 89 patients were between 18-71 years old, and older than 71 years, there were 6 patients.
+
+Of the patients studied, 21 patients had prior drug treatment, while 74 patients did not. Of the 21 patients who used medications, a total of 14 patients (66.7%) used thyroid hormone, 6 patients (28.6%) used methimazole, while only 1 patient (4.8%) used Propylthiouracil.
+
+
+
+N=21
+
+
+
+
+
+Distribution of the sample according to previous surgical history
+
+Of the total number of patients, only 5 patients had previous thyroid surgery, while 90 patients did not have prior thyroid surgery.
+
+
+Previous thyroid surgeryValuesPercentage
+Yes
+5
+5.3%
+No
+90
+94.7%
+Distribution of the sample according to the affected thyroid area
+
+73 patients (76.8%) had entire thyroid involvement, 11 patients (11,6%) had right lobe involvement, and another 11 patients (11.3%) had left lobe involvement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Distribution of the sample according to the TI-RADS sonography classification
+
+According to the TI-RADS sonography classification, 6 patients belong to the TI-RADS I classification; 13 patients belong to the TI-RADS II classification; 34 patients belong to the TI-RADS III classification; 26 patients belong to the TI-RADS IV classification; and 16 patients (16.8%) belong to the TI-RADS V classification.
+Classification (TI-RADS) ValuesPercentage
+TI-RADS I
+6
+6.3%
+TI-RADS II
+13
+13.7%
+TI-RADS III
+34
+35.8%
+TI-RADS IV
+26
+27.4%
+TI-RADS V
+16
+16.8%
+
+
+Distribution of the sample according to the fine needle biopsy
+
+Note that out of the total of 95 patients, there were 4 patients who did not undergo fine needle biopsy. Taking this into account, out of 91 patients, 49 patients had a benign result; 25 patients had a malignant result; and 17 patients had a result of cellular atypia.
+
+Fine neddele biopsyValuesPercentage
+Benign
+49
+53.8%
+Malignant
+25
+27.5%
+Cellular atypia
+17
+18.7%
+
+
+
+
+
+Distribution of the fine needle biopsy sample according to the BETHESDA classification 
+
+Out of the total of 95 patients, there were 4 patients who did not undergo fine needle biopsy, so the sample size for the Bethesda classification is 91 patients. According to the Bethesda classification by fine needle biopsy, there are no patients belonging to the class I, while 49 patients belong to class II; 12 patients belong to class IIIa; 2 patients belong to class IIIb; 2 patients belong to class IV; 22 patients belong to class V; and 4 patients belong to class VI.
+
+Biopsy classification
+ (BETHESDA) ValuesPercentage
+BETHESDA I
+0
+0%
+BETHESDA II
+49
+53.8%
+BETHESDA IIIa
+12
+13.2%
+BETHESDA IIIb
+2
+2.2%
+BETHESDA IV
+2
+2.2%
+BETHESDA V
+22
+24.2%
+BETHESDA VI
+4
+4.4%
+
+Distribution of the sample according to the final excision biopsy result
+
+According to the final biopsy, 80 patients had a benign result, while 13 patients had a malignant result. There were 2 patients whose final biopsy required additional immunohistochemical studies to confirm whether the pathology was benign or malignant.
+
+
+
+
+
+
+
+
+
+Distribution of the sample according to the histopathological type of the malignant tumor
+
+According to the histopathological type of the malignant tumor, out of 13 patients, 11 cases (84.6%) of papillary adenocarcinoma were found; 1 case of follicular adenocarcinoma, and 1 case (7.7%) of medullary adenocarcinoma.
+
+
+
+
+N=13
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Relationship between the TI-RADS sonographic classification results and the fine needle biopsy (FNB)
+
+Out of 6 patients in TI-RADS I, 2 patients did not have FNB, so out of a total of 4 patients, all had a benign result. On the other hand of 16 patients in TI-RADS V, the minority (just 4 patients) had benign FNB result. Showing inverse proportion relationship between TIRADS and the probability of having benign fine needle biopsy result.
+
+
+
+
+N=91
+
+
+
+
+
+
+
+Relationship between the TI-RADS sonographic classification results and the BETHESDA biopsy classification.
+
+In the relationship between sonography (TI-RADS) and BETHESDA, it is observed that nobody belongs to B-I. Out of 4 patients in TI-RADS I, all belong to B-II. Out of 13 patients in TI-RADS II, 12 patients belong to B-II. Of the patients in TI-RADS III, 11 patients belong to B-V. Out of 25 patients in TI-RADS IV, 13 patients belong to B-II, 3 patients belong to B-IIIa, 1 patient belongs to B-IV, 5 patients belong to B-V, and 3 patients belong to B-VI. Out of 16 patients in TI-RADS V, 4 patients belong to B-II, 5 patients belong to B-IIIa, 6 patients belong to B-V.
+
+B-IB-IIB-IIIaB-IIIbB-IVB-VB-VI
+TI-RADS I (4 patients)
+0 
+
+4 
+
+ 0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+TI-RADS II (13 patients)
+0 
+
+12 
+1
+ 
+0 
+
+0 
+
+0 
+
+0 
+
+TI-RADS III (33 patients)
+0 
+
+16 
+3 
+
+2
+
+1
+
+11
+
+0 
+
+TI-RADS IV (25 patients)
+0 
+
+13 
+
+3 
+
+0 
+
+1
+
+5
+
+3
+
+TI-RADS V (16 patients)
+0 
+
+4
+
+5 
+
+0 
+
+0 
+
+6 
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+Relationship between the TI-RADS sonographic classification results and the final biopsy
+
+In the relationship between sonography and final biopsy, it is observed that all 6 patients in TI-RADS I had a benign result. Between TI-RADS II to TI-RADS IV, there was proportionally an increase in the probability of a malignant result. Out of 16 patients in TI-RADS V, 10 patients had a benign result, 4 patients had a malignant result, and 2 patients had an indeterminate result.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Relationship between fine needle biopsy (FNB) and final biopsy results.
+
+In the relationship between FNB and final biopsy results, it was observed a disproportional relation showing that most of the suspicious malignant cases reported by FNB, had a benign report in the final biopsy result.
+
+
+
+
+N=91
+
+
+
+
+
+
+
+
+
+
+
+Relationship between the BETHESDA biopsy classification results and the final pathological biopsy
+
+In the relationship between the BETHESDA biopsy classification results and the final pathological biopsy, out of 12 patients with a IIIa classification, 9 patients had a benign final biopsy result. Out of 22 patients with a V classification, 16 patients had a benign final biopsy, 5 patients had a malignant final biopsy result. All 4 patients with a VI classification had a malignant final biopsy.
+
+BenignMalignantIndeterminate
+B-I (0 patients)
+0 
+0 
+ 0 
+B-II (49 patients)
+47 
+2
+0
+B-IIIa (12 patients)
+9
+2 
+1
+B-IIIb (2 patients)
+1 
+1 
+0 
+B-IV (2 patients)
+2 
+0
+0 
+B-V (22 patients)
+16 
+5 
+1 
+B-VI (4 patients)
+4 
+0 
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Discussion 
+
+Out of the 95 patients, 90.5% (n=86) were female and 9.5% (n=9) were male. In the study published by Triantafillou et al (2018) in Greece, 1113 patients who underwent fine needle aspiration of the thyroid were studied, with females predominating at 81.1% and males at 18.9% (4). Showing similar demographic data of thyroids disease being predominant in females.
+
+Using the TI-RADS criteria based on sonographic findings, it was observed that out of the total universe (N=95); 6.3% (n=6) belonged to TI-RADS I (benign); 13.7% (n=13) belonged to TI-RADS II (not suspicious for malignancy); 35.8% (n=34) belonged to TI-RADS III (mild suspicion for malignancy); 27.4% (n=26) belonged to TI-RADS IV (moderate suspicion for malignancy); and 16.8% (n=16) belonged to TI-RADS V. This same distribution of most results being TI-RADS II and III classification was reported in the study by Zhang J et al in 2015, which had a sample of 3980 thyroid nodules studied, 74.2% of the nodules were classified as TI-RADS II, 11.7% were classified as TI-RADS III, 13.5% were classified as TI-RADS IV, and 0.6% were classified as TI-RADS V (5). 
+
+In the relationship between sonography and final biopsy, it was observed that out of 6 patients in TI-RADS I, 100% had a benign result. Out of 13 patients in TI-RADS II, 92.3% (n=12) had a benign result, while 7.7% (n=1) had a malignant result. Out of 34 patients in TI-RADS III, 91.2% (n=31) had a benign result, while 8.8% (n=3) had a malignant result. Out of 26 patients in TI-RADS IV, 80.8% (n=21) had a benign result, while 19.2% (n=5) had a malignant result. Out of 16 patients in TI-RADS V, 1 patient did not have a final biopsy, so out of a total of 15 patients: 60% (n=9) had a benign result, 26.7% (n=4) had a malignant result, and 13.3% (n=2) had an indeterminate result. In comparison with the study mentioned earlier by Zhang J et al (2015), out of 2953 nodules classified as TI-RADS II, 100% had a benign result. Out of 466 nodules classified as TI-RADS III, 98.7% had a benign result, and 1.3% had a malignant result. Out of 539 nodules classified as TI-RADS IV, 62.7% had a benign result, and 37.3% had a malignant result. Out of 22 nodules classified as TI-RADS V, 95.5% had a malignant result, while 4.5% had a benign result (5).
+
+The BETHESDA classification was identified through fine needle aspiration (FNA) or fine needle biopsy (FNB) in 91 patients. No patient belonged to B-I (BETHESDA I), which represents a non-diagnostic biopsy or insufficient material. 53.8% (n=49) belonged to B-II (benign); 13.2% (n=12) belonged to B-IIIa (atypia of undetermined significance); 2.2% (n=2) belonged to B-IIIb (follicular lesion of undetermined significance); 2.2% (n=2) belonged to B-IV (follicular neoplasm); 24.2% (n=22) belonged to B-V (suspicion of malignancy); and 4.4% (n=4) belonged to B-VI (malignant). In the study published by Triantafillou et al (2018) in Greece, it was identified that "22.9% were characterized as non-diagnostic (B-I), 70.1% were diagnosed as benign (B-II), 3.1% were diagnosed as atypical/follicular lesion of undetermined significance (B-IIIa and B-IIIb), 0.9% were diagnosed as follicular neoplasm or suspicious for follicular neoplasm (B-IV), while 1.2% of cases were categorized as suspicious for malignancy (B-V) and 1.8% as malignant (B-VI)" (4).
+
+In the relationship between fine needle biopsy (FNB) classification and final biopsy, it was observed that out of 49 patients with a benign classification, 95.9% had a final biopsy result that was benign, and 4.1% had a final biopsy result that was malignant. Out of 17 patients with cellular atypia, 70.6% had a final biopsy result that was benign, 23.5% had a final biopsy result that was malignant, and 5.9% had a final biopsy result that was indeterminate. Out of 25 patients with malignant FNB, 68% had a final biopsy result that was benign, 28% had a final biopsy result that was malignant, and 4% had a final biopsy result that was indeterminate. In comparison with the study by Lew et al (2011), 46% of all patients undergoing thyroidectomy had thyroid cancer in the final histopathology. Out of the FNB results that were non-diagnostic due to an inconclusive result, 76% had benign histopathology, and 24% had a malignant histopathology. Out of the FNB results that were benign, 85% agreed with the final histopathology, while 8.6% turned out to be malignant. Out of the FNA results that were malignant, 98% agreed with the final histopathology, while 2% turned out to be benign (6).
+
+In the final biopsy, it was observed that out of the study population, 84.2% (n=80) had a benign result, 13.7% (n=13) had a malignant result, and 2.1% (n=2) had an indeterminate result indicating that this part of the population required immunohistochemical studies to have a more accurate and definitive diagnosis. Of the 13.7% that had a malignant result, 84.6% (n=11) were diagnosed with papillary carcinoma, 7.7% (n=1) with follicular carcinoma, and 7.7% (n=1) with medullary carcinoma. In comparison with the study by Anand et al (2020), 71% of the patients who underwent surgery had a benign final biopsy result, while 29% had a malignant final biopsy result. Of the malignant cases, 17% were diagnosed with papillary carcinoma, which was the most common neoplasm in that study, while 6% were diagnosed with follicular carcinoma (7).
+
+Conclusion
+
+Deriving from the results previously discussed, the relationship between sonographic results, fine needle aspiration, and post-thyroid surgery histopathological results was validated. General data such as age, origin, toxic habits, and the presence or absence of diabetes were used to verify if external factors such as these could affect the correlation between the three main variables of the study in thyroid diseases found. However, after data analysis, it was discovered that they did not provide a directly proportional correlation to the stipulated objectives.
+
+When comparing sonographic findings with fine needle biopsy and final biopsy, it is demonstrated that this method is specific for diagnosing and differentiating benign and malignant thyroid neoplasms. It was confirmed in the sonographic classification that the higher the TI-RADS, the higher the probability of malignancy in the fine needle biopsy, and this relationship was further reinforced with the final biopsy, showing that this relationship is correct. With sufficient sonography data, the second step in the research sequence can be taken, which is the fine needle biopsy sample.
+
+In the relationship between fine needle biopsy (FNB) and final biopsy, it was observed that when FNB gave a benign result, 95.9% of the population had a benign result in the final biopsy, but when FNB gave a malignant result, only 28% of the population had a malignant result in the final biopsy. With these data, it can be concluded that fine needle biopsy is a reliable method for diagnosing benign thyroid pathologies, but not very specific for malignant pathologies.
+
+Additionally, during the surgical procedure, it was observed that only procedures with total thyroidectomy had malignancy in the final biopsy, and of these, there was a predominance of papillary type with 84.6%. Finally, what was proposed at the beginning of the investigation is confirmed, that the final biopsy is the standard to confirm both benignity and malignancy in surgical pathologies of the thyroid, with sonography and fine needle biopsy being essential diagnostic methods to have a precise idea of the nature of the nodular lesion of the thyroid gland.
+
+
+References
+
+
+1. Thyroid Cancer (Papillary and Follicular) [Internet]. American Thyroid Association. 2017 [cited April 5, 2020]. Available from: http://www.thyroid.org/wpcontent/uploads/patients/brochures/espanol/cancer_de_tiroides.pdf
+
+2. Creagan E, Giridhar K, editors. Thyroid Nodules [Internet]. Mayo Clinic. Mayo Foundation for Medical Education and Research; 2017 [cited April 5, 2020]. Available from: https://www.mayoclinic.org/es-es/diseases-conditions/thyroid-nodules/symptoms-causes/syc-20355262
+
+3. Example taken from: Huiwen T, Zhihui L, Nong L, Jianrong Q, Fengchun F, Huiling Z, Jinquan F, Huajun X, Zhongxing L. Thyroid imaging reporting and data system combined with Bethesda classification in qualitative thyroid nodule diagnosis [Internet]. Medicine (Baltimore) 2019. Dec; 98(50): e18320. [cited April 24, 2023] (https://doi.org/10.1097%2FMD.0000000000018320)
+
+4. Triantafillou E, Papadakis G, Kanouta F, Kalaitzidou S, Drosou A, Sapera A, et al. Thyroid ultrasonographic characteristics and Bethesda results after FNAB [Internet]. Journal of B.U.ON.: official journal of the Balkan Union of Oncology. U.S. National Library of Medicine; 2018 [cited March 31, 2020]. Available from: https://www.ncbi.nlm.nih.gov/pubmed/30722123
+
+5. Zhang J, Liu B-J, Xu H-X, Xu J-M, Zhang Y-F, Liu C, et al. Prospective validation of an ultrasound-based thyroid imaging reporting and data system (TI-RADS) on 3980 thyroid nodules [Internet]. International journal of clinical and experimental medicine. e-Century Publishing Corporation; 2015 [cited April 1, 2020]. Available from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4484032/
+
+6. Lew JI, Snyder RA, Sanchez YM, Solorzano CC. Fine Needle Aspiration of the Thyroid: Correlation with Final Histopathology in a Surgical Series of 797 Patients. Journal of the American College of Surgeons [Internet]. July 2011 [cited March 30, 2020];213(1):188-94. Available from: https://www.journalacs.org/article/S1072-7515(11)00337-1/abstract
+
+7. Anand B, Ramdas A, Ambroise MM, Kumar NP. The Bethesda System for Reporting Thyroid Cytopathology: A Cytohistological Study [Internet]. Journal of Thyroid Research. Hindawi; 2020 [cited January 5, 2021]. Available from: https://www.hindawi.com/journals/jtr/2020/8095378/
+
+8. Bongiovanni M, Spitale A, Faquin WC, Mazzucchelli L, Baloch ZW. The Bethesda System for Reporting Thyroid Cytopathology: A Meta-Analysis [Internet]. Acta Cytologica. Karger Publishers; 2012 [cited April 5, 2020]. Available from: https://www.karger.com/Article/FullText/339959
+
+9. Chala AI, Pava R, Franco HI, Álvarez A, Franco A. Diagnostic ultrasound criteria for malignant neoplasia in thyroid nodules: correlation with fine needle aspiration and pathological anatomy. Rev Colomb Cir [Internet]. January 1, 2013 [cited March 31, 2020];28(1):15- Available from: https://www.revistacirugia.org/index.php/cirugia/article/view/256
+
+10. Basha MAA, Alnaggar AA, Refaat R, El-Maghraby AM, Refaat MM, Abd Elhamed ME, Abdalla AAEM, Aly SA, Hanafy AS, Mohamed AEM, Afifi AHM, Harb O. The validity and reproducibility of the thyroid imaging reporting and data system (TI-RADS) in categorization of thyroid nodules: Multicentre prospective study [Internet]. European journal of radiology. U.S. National Library of Medicine; 2019 [cited April 5, 2020]. Available from: https://pubmed.ncbi.nlm.nih.gov/31307646/
+
+11. Ultrasound [Internet]. Mayo Clinic. Mayo Foundation for Medical Education and Research; 2020 [cited April 10, 2020]. Available from: https://www.mayoclinic.org/tests-procedures/ultrasound/about/pac-20395177
+
+12. Ultrasound [Internet]. World Health Organization. World Health Organization; 2013 [cited April 10, 2020]. Available from: https://www.who.int/diagnostic_imaging/imaging_modalities/dim_ultrasound/en/
+
+13. Chaudhary V, Bano S. Thyroid ultrasound [Internet]. Indian journal of endocrinology and metabolism. Medknow Publications & Media Pvt Ltd; 2013 [cited April 10, 2020]. Available from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3683194/
+
+14. Rader DJ, Hobbs HH. Thyroid Disorders. In: Barnes PJ. Longo DL, Fauci AS, et al, editors. Harrison's Principles of Internal Medicine. Vol 2. 19th ed. Mexico: McGraw-Hill; 2016. p. 2303-2308.
+
+15. Sipos J, Orloff L. Thyroid Ultrasonography. In: Head and Neck Ultrasonography Essential and Extended Applications. 2nd ed. Plural Publishing; 2017. p. 81-136.
+
+16. Rubin R, Strayer DS, Rubin E. The Endocrine System. In: Rubins: Pathology: Clinicopathologic Foundations of Medicine. Philadelphia, PA: Wolters Kluwer Health; 2015. p. 1191, 1194-1195.
+
+17. Goljan E. Endocrine Disorders. In: Rapid Review Pathology. Philadelphia, PA: Elsevier Saunders; p. 604-605.
+
+18. McHenry CR, Phitayakorn R. Follicular adenoma and carcinoma of the thyroid gland [Internet]. The oncologist. AlphaMed Press; 2011 [cited April 10, 2020]. Available from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3228182/
+
+19. Eidsmoe K, editor. Treatment of Thyroid Cancer by Type and Stage [Internet]. American Cancer Society. 2019 [cited April 5, 2020]. Available from: https://www.cancer.org/es/cancer/cancer-de-tiroides/tratamiento/por-etapa.html#escrito_por
+
+20. Sillery J, Reading C, Charboneau W, Henrichsen T, Hay I, Mandrekar J. Thyroid Follicular Carcinoma: Sonographic Features of 50 Cases: American Journal of Roentgenology: Vol. 194, No. 1 (AJR) [Internet]. American Journal of Roentgenology. 2010 [cited April 10, 2020]. Available from: https://www.ajronline.org/doi/full/10.2214/AJR.09.3195
+
+21. Storani M, Bostico S, Musich M, Gutnisky L, Subies F. Echographic Characteristics of Medullary Thyroid Carcinoma: Comparison with Benign Nodules and Differentiated Cancer [Internet]. RAEM. Revista Argentina de Endocrinología y Metabolismo; 2017 [cited April 10, 2020]. Available from: http://www.raem.org.ar/numeros/2017-vol54/suplemento/tor47.pdf
+
+22. Elizondo A. Histopathology of Thyroid Cancer [Internet]. Medigraphic. REVISTA MEDICA DE COSTA RICA Y CENTROAMERICA LXXI ; 2014 [cited April 10, 2020]. Available from: https://www.medigraphic.com/pdfs/revmedcoscen/rmc-2014/rmc142o.pdf
+
+23. Anaplastic Thyroid Cancer [Internet]. American Thyroid Association. 2018 [cited April 5, 2020]. Available from: https://www.thyroid.org/wp- content/uploads/patients/brochures/espanol/cancer-tiroides-anaplasico.pdf
+
+24. Cerdas A. Histopathology of Thyroid Cancer. Revista Médica de Costa Rica y Centroamérica [Internet]. 2014 [cited April 5, 2020]; Available from: https://www.medigraphic.com/pdfs/revmedcoscen/rmc-2014/rmc142o.pdf
+
+25. Yang X, Zhai D, Zhang T, Zhang S. Use of strain ultrasound elastography versus fine-needle aspiration cytology for the differential diagnosis of thyroid nodules: a retrospective analysis. Clinics (Sao Paulo). 2020 Jun 22;75:e1594. doi: 10.6061/clinics/2020/e1594. PMID: 32578823; PMCID: PMC7297517. [cited May 05, 2023]. Available from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7297517/
+
+26. Haugen BR, Alexander EK, Bible KC, et al. 2015 American Thyroid Association Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer: The American Thyroid Association Guidelines Task Force on Thyroid Nodules and Differentiated Thyroid Cancer. Thyroid. 2016;26(1):1-133. doi:10.1089/thy.2015.0020. PMID: 26462967.
+
+27. Brito JP, Gionfriddo MR, Al Nofal A, et al. The accuracy of thyroid nodule ultrasound to predict thyroid cancer: systematic review and meta-analysis. J Clin Endocrinol Metab. 2014;99(4):1253-1263. doi:10.1210/jc.2013-2928. PMID: 24423309.
+
+28. Shin JH, Baek JH, Chung J, et al. Ultrasonography diagnosis and imaging-based management of thyroid nodules: revised Korean Society of Thyroid Radiology Consensus Statement and Recommendations. Korean J Radiol. 2016;17(3):370-395. doi:10.3348/kjr.2016.17.3.370. PMID: 27134584; PMCID: PMC4858244.
+
+29. Yoon JH, Lee HS, Kim EK, Moon HJ, Kwak JY. Malignancy risk stratification of thyroid nodules: comparison between the thyroid imaging reporting and data system and the 2014 American Thyroid Association Management Guidelines. Radiology. 2016;278(3):917-924. doi:10.1148/radiol.2015142796. PMID: 26599951.
+
+30. Valderrabano P, Kluijfhout WP, Drake FT, et al. The impact of surgical volume on patient outcomes following thyroid surgery. Surgery. 2017;161(1):165-174. doi: 10.1016/j.surg.2016.04.047. PMID: 27471102; PMCID: PMC5145241.
+
+
+1
+
+
